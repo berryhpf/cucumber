@@ -1,4 +1,4 @@
-I sued Cucumber-Java Skeleton as a started and left the original README if anyone is interested.
+I used Cucumber-Java Skeleton as a started and left the original README if anyone is interested.
 This uses the io.cucumber Java jars.
 
 # Cucumber-Java Skeleton
